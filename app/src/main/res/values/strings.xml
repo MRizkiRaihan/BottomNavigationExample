@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bottom Navigation Example</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="isshin">Isshin Glock Saint</string>
+    <string name="hoarahloux">Hoarah Loux</string>
+    <string name="malenia">Malenia</string>
+    <string name="soulofcinder">Soul Of Cinder</string>
+    <string name="maria">Lady Maria Of The Astral Clocktower</string>
+    <string name="godric">Godric The Grafted</string>
+    <string name="radahn">Starcourge Radahn</string>
+    <string name="namelessking">Nameless King</string>
+    <string name="abysswatcher">Abyss Watcher</string>
+    <string name="radagon">Radagon Of The Golden Order</string>
+
+    <string name="desc_abysswatcher">The Most Confusing Fighting Club In Dark Souls 3.</string>
+    <string name="desc_hoarahloux">A Wild Feudal Age Undertaker"</string>
+    <string name="desc_malenia">Flurry Slash Goes Brrrrrrrrrr</string>
+    <string name="desc_soulofcinder">This Guy Level is 802</string>
+    <string name="desc_maria">A Corpse...Should Be Left Well Alone. Oh, I know very well. How the secrets beckon so sweetly. Only Honest Death will cure you now. Liberate You, from your wild curiosity.</string>
+    <string name="desc_godric">Higashikata Tarnished!, Omaewa Wa Kono Goduric Za Gurafted No Za Hando Ga Kesu!!!</string>
+    <string name="desc_radahn">When This Guy Is missing, You should Look at The Sky. This Big General Like Unicorn By The Way</string>
+    <string name="desc_namelessking">Nice Ride Brother :D</string>
+    <string name="desc_isshin">The Old Man Who Bring Gun To Sword Fight</string>
+    <string name="desc_radagon">Have You Ever Fell Get Bonk By Rusty Gold Hammer?</string>
+    //profile
+    <string name="raihan">Muhammad Rizki Raihan</string>
+    <string name="desc_raihan">NIM : 2110031802069</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+</resources>
